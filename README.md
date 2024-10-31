@@ -1,4 +1,4 @@
-# Flutter News App - Dive into a world of news with our Flutter News App. This sleek and intuitive app delivers the latest headlines, in-depth articles, and breaking news from around the globe, all at your fingertips.
+# Flutter News App.
 ### DEMO
 
 |                                                    Dscover                                                     |                                                    Feed                                                    |                                                    Settings                                                    |                                              Language Support                                              |
